@@ -1,0 +1,26 @@
+# Simple Query
+1. What is data distribution shifts ?
+
+2. What is the train-serving skew ? 
+
+3. What is degenerate feedback loops? Give some examples
+
+4. Give me 2 metrics to measure the diversity of the outputs of a recommender system
+
+5. What is the difference between machine learning in research vs in production ? 
+
+6. What are the types of software system failures in ML pipelines ?
+
+# Complex query
+
+7. What is data distribution shifts ? how it happen ? how to detect? how to solve it ?
+
+8. Can latency happen if my feature engineering contain too many features ?
+
+9. What is data leakage in mlops context? how it happens, how to detect and what are the solutions to it ?
+
+10. Can I just simply replace my existing model with my new retrained model ?
+
+
+
+
